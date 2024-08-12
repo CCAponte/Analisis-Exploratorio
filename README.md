@@ -1,5 +1,7 @@
 # Proyecto "Análisis de retención de empleados y reconocimiento de desempeño de la empresa Generic Drug Research & Development"
+
  Area: Recursos humanos
+
 La empresa Generic Drug Research & Development quiere adoptar un enfoque integral que valore el bienestar, el compromiso y el desarrollo de sus empleados, e ir más allá de la simple retención de sus colaboradores y crear un ambiente laboral próspero que impulse su productividad.
 
 El objetivo de este estudio es: **Comprender los factores que influyen en el Attrition de los colaboradores de la empresa Generic Drug Research & Development.**
